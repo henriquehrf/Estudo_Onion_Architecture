@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/OnionArchitectureSample/.vs/OnionArchitectureSample/v16
+/OnionArchitectureSample/OnionArchitectureSample/obj
+/OnionArchitectureSample/OnionArchitectureSample/bin/Debug/net5.0
